@@ -9,4 +9,6 @@ Python: 2.7.14
 
 简单粗暴地 **python crawlOfferShow.py** 即可爬取数据到本地~
 
+经过稍微整理的数据保存在iOfferShow.xlsx，下载即可查看~
+
 如果有用的话走过路过求赏个Star呀~
